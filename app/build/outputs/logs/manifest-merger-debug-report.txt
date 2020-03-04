@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\c29e33cf85556433327772c81be21d19\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\a391e8e1620f89c465957bb49c1b7e43\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:9:7-76
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:9:24-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:10:1-71
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:10:18-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:11:1-74
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:11:18-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:13:1-76
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:13:18-74
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:14:1-63
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:14:18-61
+application
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:16:5-73:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\c29e33cf85556433327772c81be21d19\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\c29e33cf85556433327772c81be21d19\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\a391e8e1620f89c465957bb49c1b7e43\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\a391e8e1620f89c465957bb49c1b7e43\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:19:9-30
+	android:icon
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:18:9-38
+	android:allowBackup
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.androidteris.HomePage
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:24:6-34:17
+	android:label
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:26:13-34
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:25:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:28:14-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.androidteris.MainActivity
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:37:6-41:20
+	android:label
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:38:13-41
+activity#com.example.androidteris.SettingPage
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:45:13-31
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:44:13-40
+activity#com.example.androidteris.AboutActivity
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:50:13-33
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:49:13-42
+activity#com.example.androidteris.MusicPage
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:53:13-38
+activity#com.example.androidteris.CustomLoginPage
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:56:10-59:20
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:57:13-44
+activity#com.example.androidteris.CustomRegisterPage
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:60:10-62:20
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:61:13-47
+activity#com.example.androidteris.CustomRecord
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:64:10-66:20
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:65:13-41
+activity#com.example.androidteris.GameOver
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:67:9-69:20
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:68:13-37
+service#com.example.androidteris.BackService
+ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:70:9-56
+	android:name
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml:70:18-45
+uses-sdk
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\c29e33cf85556433327772c81be21d19\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\c29e33cf85556433327772c81be21d19\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\a391e8e1620f89c465957bb49c1b7e43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ymh\.gradle\wrapper\dists\gradle-4.6-all\caches\transforms-2\files-2.1\a391e8e1620f89c465957bb49c1b7e43\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ymh\Desktop\android\Tetris\app\src\main\AndroidManifest.xml
